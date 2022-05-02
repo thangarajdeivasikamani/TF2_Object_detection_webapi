@@ -1,0 +1,40 @@
+item { 
+	name:'sunglass'
+	id:1
+}
+item { 
+	name:'hat'
+	id:2
+}
+item { 
+	name:'jacket'
+	id:3
+}
+item { 
+	name:'shirt'
+	id:4
+}
+item { 
+	name:'pants'
+	id:5
+}
+item { 
+	name:'shorts'
+	id:6
+}
+item { 
+	name:'skirt'
+	id:7
+}
+item { 
+	name:'dress'
+	id:8
+}
+item { 
+	name:'bag'
+	id:9
+}
+item { 
+	name:'shoe'
+	id:10
+}
