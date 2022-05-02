@@ -15,6 +15,9 @@ Steps:
 
 
 Result
+![image](https://user-images.githubusercontent.com/46878296/166299265-78799780-c297-4365-9634-dab3bbeeaf7e.png)
+
+![image](https://user-images.githubusercontent.com/46878296/166299344-5f06961e-7a92-46d6-9b54-912f07f64401.png)
 
 
 Reference video:
